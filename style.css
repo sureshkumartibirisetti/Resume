@@ -1,0 +1,43 @@
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+#a{
+    text-decoration: none;
+    color: black;
+}
+#b{
+    text-align: center;
+    background-color: hsl(0, 7%, 59%);
+}
+#c{
+    text-align: center;
+    background-color: hsl(0, 7%, 59%); 
+}
+#d{
+    text-align: center;
+    background-color: hsl(0, 7%, 59%);
+
+}
+#e{
+    text-align: center;
+    background-color: hsl(0, 7%, 59%);
+}
+#f{
+    text-align: center;
+    background-color: hsl(0, 7%, 59%);
+
+}
+#g{
+    color: rgb(107, 101, 101);
+    text-decoration: none;
+}
+#h{
+    color: rgb(107, 101, 101);
+    text-decoration: none;
+}
+#i{
+    color: rgb(107, 101, 101);
+    text-decoration: none;
+   
+}
